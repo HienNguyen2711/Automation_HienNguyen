@@ -1,1 +1,3 @@
-1 Again Try again 2564554442
+$ git add .
+$ git commit -m "First commit"
+$ git push origin main
